@@ -1,6 +1,6 @@
 import React from "react"
 import Layout from "../components/layout"
-import profile from "../images/my-profile.jpg"
+import profile from "../images/my-profile.JPG"
 import signature from "../images/signature.png"
 import SEO from "../components/seo"
 import WorkProcess from "../components/about/work-process"
